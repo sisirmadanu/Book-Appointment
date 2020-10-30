@@ -1,3 +1,19 @@
+# Automation Demo.js
+Automation script for User Register, using Cypress.
+When user visit page.
+When user Enters "Email" and click Next.
+When user enters "First Namae and Last Name".
+When user enters "Email address and Phone number".
+When User selects "Gender".
+When user selects "Hobbies".
+When user Selects "Languages".
+When user selects "Skills".
+When user selects "Country".
+When user selects "Date of Birth".
+When user enters "password".
+When user confirms "Password".
+When user clik on "Submit"
+
 # SecondTest.js
 Automation script to book an appointment and confirmation after booking, using Cypress.
 When user visit page.
