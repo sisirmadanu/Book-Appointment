@@ -20,7 +20,7 @@
 
 # SecondTest.js
 
-## Title: Automation script to book an appointment and confirmation after booking (using Cypress).
+## Title: Booking appointment and confirmation.
 
 ### Description: User books the appointment and will confirm booking.
 
